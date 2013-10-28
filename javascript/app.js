@@ -122,4 +122,6 @@ var APP = APP || {};
 		APP.controller.init();
 	});
 	
+	// waar is je get en post functie? het waait een beetje hard.
+	
 })();
